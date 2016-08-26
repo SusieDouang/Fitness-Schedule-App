@@ -9,12 +9,12 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <h1>Content Management</h1></br>
-        <a href="PersonList.aspx">Person</a></br>
-        <a href="InstructorList.aspx">Instructor</a></br>
-        <a href="EmailList.aspx">Email</a></br>
-        <a href="EntityTypeList.aspx">Entity Type List</a></br>
-        <a href="FitnessClassList.aspx">Fitness Class List</a>
+        <h1>Content Management</h1><br/>
+        </center><a href="PersonList.aspx">Person</a><br />
+        <a href="InstructorList.aspx">Instructor</a><br/>
+        <a href="EmailList.aspx">Email</a><br/>
+        <a href="EntityTypeList.aspx">Entity Type List</a><br/>
+        <a href="FitnessClassList.aspx">Fitness Class List</a><br/>
     </div>
     </form>
 </body>
